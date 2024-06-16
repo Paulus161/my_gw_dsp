@@ -1,2 +1,2 @@
 # my_gw_dsp
-gw5a
+GW5A-LV25MG121NES
